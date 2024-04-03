@@ -1,0 +1,272 @@
+body {
+  font-family: "Dosis", sans-serif;
+  font-weight: 500;
+}
+
+.imgbox img {
+  width: 100%;
+}
+
+#solutions {
+  padding: 50px 0;
+}
+#solutions .textbox h1 {
+  font-weight: 700;
+  font-size: 50px;
+  margin: 0 0 10px;
+  color: #bc4639;
+}
+#solutions .textbox h4 {
+  color: #a8a8a8;
+  font-size: 24px;
+}
+#solutions .imgb0x {
+  width: 500px;
+}
+
+#services {
+  padding: 40px 0;
+}
+#services .textbox {
+  padding: 80px;
+}
+#services .textbox h1 {
+  font-weight: 700;
+  color: #bc4639;
+}
+#services .textbox h3 {
+  color: #868686;
+  margin: 20px 0 40px;
+  font-size: 25px;
+  line-height: 1.4;
+}
+#services .textbox h2, #services .textbox h6 {
+  margin: 15px 0;
+}
+#services .textbox h2 {
+  font-size: 33px;
+}
+#services .textbox h6 {
+  font-size: 18px;
+  line-height: 1.5;
+}
+#services .textbox .btn {
+  padding: 10px 30px;
+  border-radius: 5px;
+  background-color: #d4a59a;
+  color: white;
+}
+#services .wid {
+  width: 580px;
+}
+#services .icon {
+  color: #d4cece;
+}
+#services .icon i {
+  font-size: 22px;
+}
+#services .bigicon i {
+  font-size: 30px;
+  color: #8f8686;
+}
+
+#aboutus {
+  padding: 40px 0;
+}
+#aboutus .textbox {
+  padding: 0 100px;
+}
+#aboutus .textbox h1 {
+  font-weight: 700;
+  font-size: 35px;
+  color: #bc4639;
+}
+#aboutus .textbox h3 {
+  color: #a8a8a8;
+  font-weight: 100;
+  font-size: 20px;
+  margin: 15px 0;
+  line-height: 1.6;
+}
+#aboutus .textbox p {
+  font-size: 18px;
+  color: #949494;
+  line-height: 1.4;
+}
+#aboutus .textbox li {
+  display: flex;
+  padding: 20px 0;
+}
+#aboutus .textbox .icon {
+  padding: 0 10px 0 0;
+  color: #5e5656;
+}
+#aboutus .textbox h2 {
+  font-size: 20px;
+  color: #949494;
+}
+#aboutus .imgbox {
+  width: 500px;
+}
+
+#ourtrainers {
+  padding: 40px 0;
+}
+#ourtrainers .wid {
+  width: 580px;
+}
+#ourtrainers h1 {
+  font-weight: 700;
+  font-size: 38px;
+  color: #bc4639;
+}
+#ourtrainers h3, #ourtrainers h4 {
+  font-weight: 300;
+  font-size: 20px;
+  color: #a8a8a8;
+  margin: 20px 0;
+  line-height: 1.4;
+}
+#ourtrainers .box {
+  margin: 0 5px;
+}
+#ourtrainers .box .textbox {
+  padding: 15px;
+}
+#ourtrainers .box .textbox h2 {
+  font-weight: 300;
+  font-size: 25px;
+  padding: 20px 0 0;
+}
+#ourtrainers .box .textbox ul {
+  display: flex;
+  flex-direction: row;
+}
+#ourtrainers .box .textbox ul li {
+  margin: 0 10px;
+  background-color: #d4cece;
+  border-radius: 50%;
+  padding: 20px;
+  width: 10px;
+  height: 10px;
+}
+#ourtrainers .box .textbox ul li .icon {
+  margin: -7px;
+}
+
+#frequently {
+  padding: 40px 0;
+}
+#frequently .wid {
+  width: 580px;
+}
+#frequently h1 {
+  font-weight: 700;
+  font-size: 36px;
+  margin: 15px 0;
+  color: #bc4639;
+}
+#frequently h3 {
+  font-size: 20px;
+  color: #c6c6c6;
+  margin: 30px 0;
+  line-height: 1.4;
+}
+#frequently .textbox {
+  padding: 0 70px;
+}
+#frequently .textbox li {
+  margin: 30px 0 0;
+}
+#frequently .textbox h2 {
+  font-size: 25px;
+  margin: 0 0 0 10px;
+  color: #717171;
+}
+#frequently .icon {
+  color: #d4cece;
+}
+#frequently .icon i {
+  font-size: 22px;
+}
+#frequently .bigicon i {
+  font-size: 30px;
+  color: #8f8686;
+}
+
+#contactus {
+  padding: 40px 0;
+}
+#contactus .wid {
+  width: 580px;
+}
+#contactus .box {
+  display: flex;
+}
+#contactus h1 {
+  font-weight: 700;
+  font-size: 35px;
+  color: #bc4639;
+}
+#contactus h3 {
+  font-size: 20px;
+  color: #c6c6c6;
+  margin: 30px 0;
+  line-height: 1.4;
+}
+#contactus .textbox {
+  margin: 0 0 0 20px;
+}
+#contactus .textbox h2 {
+  font-size: 22px;
+}
+#contactus .textbox h4 {
+  font-size: 18px;
+  color: #aba8a8;
+  margin: 20px 0 20px;
+}
+#contactus .textbox .btn {
+  padding: 10px 30px;
+  border-radius: 5px;
+  background-color: #d4a59a;
+  color: white;
+}
+#contactus .textbox .bigicon i {
+  font-size: 30px;
+  color: #8f8686;
+}
+
+#whatwe {
+  padding: 40px 0;
+}
+#whatwe .wid {
+  width: 580px;
+}
+#whatwe h1 {
+  font-weight: 700;
+  font-size: 35px;
+  color: #bc4639;
+}
+#whatwe h3 {
+  font-size: 20px;
+  color: #c6c6c6;
+  line-height: 1.4;
+}
+#whatwe .textbox {
+  padding: 30px 40px;
+}
+#whatwe .textbox h2 {
+  font-size: 25px;
+  color: #757575;
+  margin: 20px 0 0;
+}
+#whatwe .textbox h3 {
+  margin: 30px 0 0;
+}
+#whatwe .textbox .icon {
+  font-size: 60px;
+}
+#whatwe .bigicon i {
+  font-size: 30px;
+  color: #8f8686;
+}/*# sourceMappingURL=style.css.map */
